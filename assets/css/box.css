@@ -1,6 +1,17 @@
 div {
   width: 300px;
-  border: 15px solid green;
   padding: 50px;
   margin: 20px;
+}
+
+div {
+  border-style: dotted dashed solid double;
+  /* border-top-style: double;
+  border-right-style: groove;
+  border-bottom-style: ridge;
+  border-left-style: inset; */
+  border-width: 5px 10px 15px 20px;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+  border-color: aqua red green blue;
 }
