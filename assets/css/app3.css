@@ -1,16 +1,24 @@
-* {
-  background-color: blueviolet;
+body {
+  background-color: #f7ffe5;
 }
 
 h1,
 h2,
 h3 {
-  color: yellow;
+  color: #c4d7b2;
   background-color: black;
 }
 
 p {
-  color: white;
+  /* color: white; */
   line-height: 1.5;
   letter-spacing: 1px;
+}
+
+span {
+  color: green;
+}
+
+#list2 {
+  color: #d3d04f;
 }
