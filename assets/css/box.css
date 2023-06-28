@@ -15,3 +15,12 @@ div {
   border-bottom-width: 10px;
   border-color: aqua red green blue;
 }
+
+div {
+  /* padding-top: 10px;
+  padding-right: 40px;
+  padding-bottom: 10px;
+  padding-left: 40px; */
+  /* padding: 10px 40px; */
+  padding: 10px 100px 40px 5px ;
+}
