@@ -1,0 +1,19 @@
+h1 {
+  text-align: center;
+  font-weight: 900;
+  text-decoration: underline #a0e00d;
+  font-size: 200%;
+}
+
+p {
+  /* text-align: center;
+  font-weight: 600; */
+  line-height: 1.5;
+  text-align: justify;
+  letter-spacing: 1px;
+}
+
+a {
+  text-decoration: none;
+  /* color: black; */
+}
